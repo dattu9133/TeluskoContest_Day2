@@ -1,8 +1,8 @@
 # TeluskoContest_Day2
 
-##Output for the project as follows:
+## Output for the project as follows:
 
-'''==============================================
+```==============================================
 		     MENU
 ==============================================
 1.Search by Name
