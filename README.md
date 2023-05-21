@@ -1,6 +1,6 @@
 # TeluskoContest_Day2
 
-## Output for the Product Mnagement System project as follows:
+## Output for the Product Management System project as follows:
 
 ```==============================================
 		     MENU
